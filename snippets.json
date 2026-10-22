@@ -1,0 +1,12 @@
+{
+  "willkommen_01": {
+    "headline": "Schön, dass du da bist",
+    "text": "Dein Text hier. <b>HTML erlaubt.</b>",
+    "cta_text": "Jetzt entdecken",
+    "cta_url": "https://www.schlafgut.com/"
+  },
+  "beispiel_02": {
+    "headline": "",
+    "text": ""
+  }
+}
