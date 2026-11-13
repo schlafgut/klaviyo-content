@@ -1,12 +1,14 @@
 {
-  "willkommen_01": {
-    "headline": "Schön, dass du da bist",
-    "text": "Dein Text hier. <b>HTML erlaubt.</b>",
-    "cta_text": "Jetzt entdecken",
-    "cta_url": "https://www.schlafgut.com/"
-  },
-  "beispiel_02": {
-    "headline": "",
-    "text": ""
+  "kampagne_topbar": {
+    "start": "2026-11-01",
+    "ende": "2026-11-29",
+    "titel": "Black Month",
+    "angebot": "30% auf alles",
+    "zeile2": "Bester Preis des Jahres.",
+    "link_text": "Jetzt entdecken",
+    "url": "https://www.schlafgut.com/black-month/",
+    "farbe_hg": "#1D1D1B",
+    "farbe_text": "#FFFFFF",
+    "farbe_akzent": "#FFD23F"
   }
 }
